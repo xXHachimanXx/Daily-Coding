@@ -1,5 +1,7 @@
 """
-    
+Difficult: HARD
+
+This problem was asked by Uber.
 
 For example, if our input was [1, 2, 3, 4, 5], the expected 
 output would be [120, 60, 40, 30, 24]. If our input was 
@@ -12,7 +14,6 @@ at index 'i'
 
 solution 2: multiply all numbers of array if his index is different 
 of 'i'
-
 """
 
 def product(array):
