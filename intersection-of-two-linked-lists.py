@@ -14,9 +14,6 @@ Do this in O(M + N) time (where M and N are the lengths of the lists)
 and constant space.
 """
 
-from unittest import removeResult
-
-
 class ListNode(object):
     def __init__(self, x):
         self.val = x
